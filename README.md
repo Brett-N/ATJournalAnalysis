@@ -43,11 +43,11 @@ For any queries or further discussion, feel free to contact me at brettn@vt.edu!
 
 ## Gallery
 
-Below is a collection of images showcasing various visualizations I have created to display the data generated during this project:
+Below is a collection of images showcasing various visualizations I have created with JavaScript to display the data generated during this project:
 
-- **Image/GIF 1 Description**: Visualization of trail journal data for people expressing specific emotions along the Appalachian Trail, in this case fear
+- **Image 1 Description**: Visualization of trail journal data for people expressing specific emotions along the Appalachian Trail, in this case fear
 ![VisualizedData](https://github.com/Brett-N/ATJournalAnalysis/assets/150493078/62755512-b4c6-49b9-8343-2beb38a50f90)
-- **Image/GIF 2 Description**: Hovering your cursor over any data point on the map will show you the name of the trail shelter, and the topic words for the journal entries expressing fear at this location
+- **Image 2 Description**: Hovering your cursor over any data point on the map will show you the name of the trail shelter, and the topic words for the journal entries expressing fear at this location
 ![VisualizedData2](https://github.com/Brett-N/ATJournalAnalysis/assets/150493078/2b058482-f89c-4e75-be3c-3a402b39c4e9)
-- **Image/GIF 3 Description**: Clicking on any data point on the map will show you the full journal entries for this location, and users can see why people may be expressing fear at this location
+- **Image 3 Description**: Clicking on any data point on the map will show you the full journal entries for this location, and users can see why people may be expressing fear at this location
 ![VisualizedData3](https://github.com/Brett-N/ATJournalAnalysis/assets/150493078/0a8e40a7-bff6-4067-8411-62c93e697339)
